@@ -48,16 +48,16 @@ view: vs {
   dimension: s {
 
     type: location
-    sql_latitude:sql: ${double_field_0}   ;;
-    sql_longitude: sql: ${double_field_1}  ;;
+    sql_latitude: ${double_field_0}   ;;
+    sql_longitude:  ${double_field_1}  ;;
 
 
   }
   dimension: d {
 
     type: location
-    sql_latitude:sql: ${double_field_2}   ;;
-    sql_longitude: sql: ${double_field_3}  ;;
+    sql_latitude: ${double_field_2}   ;;
+    sql_longitude:  ${double_field_3}  ;;
 
 
   }
