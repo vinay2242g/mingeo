@@ -44,7 +44,7 @@ Development Mode, changes you make to the LookML model exist only in your accoun
 changes and push them to your production model.
 
 <h2><span style="color:#2d7eea">Additional Resources</span></h2>
-
+k
 To learn more about LookML and how to develop visit:
 - [Looker User Guide](https://looker.com/guide)
 - [Looker Help Center](https://help.looker.com)
